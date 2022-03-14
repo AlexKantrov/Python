@@ -1,5 +1,6 @@
 #      _____________________________ Python ____________________________  
 ### <ins>HomeWork 1</ins>  
+:white_check_mark: Complete    
 ```
 # Create variables of different types
 a = 'Hello World'
